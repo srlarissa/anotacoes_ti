@@ -1,0 +1,26 @@
+TO DO:
+
+- [ ] Adicionar uma tag com a licença do projeto no topo;
+- [ ] Breve descrição do que o projeto faz;
+- [ ] Como contribuir com "coisas para se ter em mente antes de abrir um pool request"
+	- [ ] Escolha um título simples e explicativo para o que deseja que seja alterado
+	- [ ] Verifique se algum PR já foi aberto com a mesma sugestão
+	- [ ] Explicar com um passo a passo como criar um fork do projeto e demais instruções para contribuição e criação de um PR
+- [ ] Entendendo decisões estruturais e arquiteturais 
+	- [ ] Requisitos para rodar o projeto
+		- [ ] Setup do ambiente
+		- [ ] Passo a passo de como rodar o projeto na minha máquina
+	- [ ] Estrutura do projeto
+		- [ ] Explicação de cada pasta e classe criada
+		- [ ] Documentação dos métodos 
+		- [ ] Explicação da arquitetura utilizada e justificativa da aplicação
+	- [ ] Explicação sobre a escolha da AWS S3 como hospedagem
+		- [ ] Porque a AWS S3 e não outras opções (mesmo dentro da própria AWS)
+		- [ ] Como eu posso alterar o código para fazer funcionar utilizando a minha própria conta
+		- [ ] Link da documentação
+	- [ ] Explicação sobre a escolha sobre o uso do Docker
+		- [ ] Qual a necessidade da escolha do Docker e qual sua funcionalidade nesse projeto
+		- [ ] Link da documentação
+	- [ ] Explicação da escolhe da lib google zxing
+		- [ ] Existem outras opções? Se sim, quais? E por que essa foi escolhida?
+		- [ ] Link da documentação

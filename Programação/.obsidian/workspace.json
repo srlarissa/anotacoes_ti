@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Interface Funcional.md",
+                "file": "Miscelânea/Documentação no GitHub com o README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Interface Funcional"
+              "title": "Documentação no GitHub com o README"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Interface Funcional.md",
+                "file": "Miscelânea/Documentação no GitHub com o README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Interface Funcional"
+              "title": "Backlinks for Documentação no GitHub com o README"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Interface Funcional.md",
+                "file": "Miscelânea/Documentação no GitHub com o README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Interface Funcional"
+              "title": "Outgoing links from Documentação no GitHub com o README"
             }
           },
           {
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Interface Funcional.md",
+                "file": "Miscelânea/Documentação no GitHub com o README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Interface Funcional"
+              "title": "Outline of Documentação no GitHub com o README"
             }
           }
         ]
@@ -171,8 +171,10 @@
   },
   "active": "d4f2d5a9ce1cec59",
   "lastOpenFiles": [
-    "Java/Lambda.md",
     "Java/Interface Funcional.md",
+    "Miscelânea/Documentação no GitHub com o README.md",
+    "Miscelânea",
+    "Java/Lambda.md",
     "Untitled.md",
     "Welcome.md",
     "Java"

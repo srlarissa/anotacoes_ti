@@ -7,5 +7,8 @@ public interface Operacao {
     int executar(int a, int b);
 }
 
+Operacao soma = (a, b) -> a + b;
+System.out.println(soma.executar(3, 4)); // saída: 7
+
 ```
 
