@@ -1,6 +1,21 @@
 {
 	"nodes":[
-		{"id":"152901a85e5e40a1","x":-125,"y":-30,"width":205,"height":50,"color":"6","type":"text","text":"**CLASSE WRAPPER** "}
+		{"id":"152901a85e5e40a1","type":"text","text":"**CLASSE WRAPPER** ","x":-125,"y":-30,"width":205,"height":50,"color":"6"},
+		{"id":"af647d0b3cda1586","type":"text","text":"**Definição:** Empacotadores de valores primitivos, permitindo que estes sejam tratados como objetos","x":-540,"y":-71,"width":288,"height":133,"color":"2"},
+		{"id":"da0c9f28249cedfc","type":"text","text":"Passível de serem utilizados em coleções *(List, Map, etc.)* e da denominação genérica T","x":-392,"y":-260,"width":280,"height":120,"color":"4"},
+		{"id":"0a3eb6555bb02252","type":"text","text":"Possuem métodos utilitários como conversões, comparações, etc.","x":-22,"y":-250,"width":272,"height":100,"color":"4"},
+		{"id":"6d8b05dafab65c7b","type":"text","text":"É possível atribuir null como valor","x":-180,"y":-360,"width":220,"height":71,"color":"4"},
+		{"id":"361d71b3aafcde44","x":-396,"y":176,"width":312,"height":99,"color":"1","type":"text","text":"Wrappers *(via de regra)* são mais pesados que tipos primitivos"},
+		{"id":"f99549cffab40a6b","x":290,"y":-200,"width":240,"height":311,"color":"2","type":"text","text":"**Tipos:** \n\n- Byte --> byte\n- Short --> short\n- Integer --> int\n- Long --> long\n- Float --> float\n- Double --> double\n- Character --> char\n- Boolean --> boolean"},
+		{"id":"d4a46df834799c4b","type":"text","text":"Podem lançar *NullPointerException* se mal utilizados com unboxing","x":-22,"y":176,"width":312,"height":99,"color":"1"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"aaefb866dbebe638","fromNode":"152901a85e5e40a1","fromSide":"left","toNode":"af647d0b3cda1586","toSide":"right"},
+		{"id":"29fd8a7f5c7b063e","fromNode":"152901a85e5e40a1","fromSide":"top","toNode":"da0c9f28249cedfc","toSide":"bottom"},
+		{"id":"77796e2e81c374eb","fromNode":"152901a85e5e40a1","fromSide":"top","toNode":"0a3eb6555bb02252","toSide":"bottom"},
+		{"id":"11c98686bf0da5bd","fromNode":"152901a85e5e40a1","fromSide":"top","toNode":"6d8b05dafab65c7b","toSide":"bottom"},
+		{"id":"88043b158f8bca9a","fromNode":"152901a85e5e40a1","fromSide":"right","toNode":"f99549cffab40a6b","toSide":"left"},
+		{"id":"a17606cbcc771e85","fromNode":"152901a85e5e40a1","fromSide":"bottom","toNode":"361d71b3aafcde44","toSide":"top"},
+		{"id":"dc8dd4bb0b6baf59","fromNode":"152901a85e5e40a1","fromSide":"bottom","toNode":"d4a46df834799c4b","toSide":"top"}
+	]
 }
