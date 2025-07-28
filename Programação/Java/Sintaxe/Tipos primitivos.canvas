@@ -1,25 +1,25 @@
 {
 	"nodes":[
 		{"id":"8708fca303cda421","type":"text","text":"**TIPOS PRIMITIVOS** ","x":-125,"y":-30,"width":205,"height":50,"color":"6"},
-		{"id":"29726dbf18c2b101","type":"text","text":"Dados básicos, não pertencem a classes e não são objetos","x":-408,"y":-180,"width":283,"height":80,"color":"4"},
-		{"id":"6ae7d13d3b90f219","type":"text","text":"Via de regra, leves e eficientes","x":-363,"y":-376,"width":193,"height":73,"color":"4"},
-		{"id":"fbea8f67aadd0b9c","type":"text","text":"**Desempenho:** Sem overhead de objetos","x":-55,"y":-260,"width":270,"height":80,"color":"3"},
-		{"id":"b34b635379d334a4","type":"text","text":"**Eficiência:** Uso direto da CPU e da memória","x":-55,"y":-419,"width":270,"height":80,"color":"3"},
-		{"id":"b56a11bebce7226f","type":"text","text":"**Simplicidade:** Bom para operações básicas","x":-55,"y":-580,"width":270,"height":80,"color":"3"},
 		{"id":"cba1991debfa5b67","type":"text","text":"**Não** possuem métodos utilitários","x":80,"y":80,"width":204,"height":87,"color":"1"},
 		{"id":"5620505582c66449","type":"text","text":"**Não** funcionam em coleções genéricas","x":-80,"y":220,"width":204,"height":87,"color":"1"},
 		{"id":"c84d3e91d310edb7","type":"text","text":"**Não** têm valor null","x":-283,"y":99,"width":203,"height":50,"color":"1"},
-		{"id":"4b212c161156080a","type":"text","text":"**Tipos:** \n\n- Inteiros:\n\t- byte (8 bits)\n\t- short (16 bits)\n\t- int (32 bits)\n\t- long (64 bits)\n- Reais:\n\t- float (32 bits)\n\t- double (64 bits)\n- Caractere:\n\t- char (16 bits)\n- Booleano\n\t- boolean (1 bit)","x":320,"y":-376,"width":280,"height":410,"color":"2"}
+		{"id":"4b212c161156080a","type":"text","text":"**Tipos:** \n\n- Inteiros:\n\t- byte (8 bits)\n\t- short (16 bits)\n\t- int (32 bits)\n\t- long (64 bits)\n- Reais:\n\t- float (32 bits)\n\t- double (64 bits)\n- Caractere:\n\t- char (16 bits)\n- Booleano\n\t- boolean (1 bit)","x":284,"y":-390,"width":280,"height":410,"color":"2"},
+		{"id":"29726dbf18c2b101","type":"text","text":"**Definição:** Dados básicos, não pertencem a classes e não são objetos","x":-518,"y":-57,"width":277,"height":105,"color":"2"},
+		{"id":"6ae7d13d3b90f219","type":"text","text":"Via de regra, leves e eficientes","x":-489,"y":-341,"width":193,"height":73,"color":"4"},
+		{"id":"b34b635379d334a4","type":"text","text":"**Eficiência:** Uso direto da CPU e da memória","x":-181,"y":-390,"width":270,"height":80,"color":"4"},
+		{"id":"b56a11bebce7226f","type":"text","text":"**Simplicidade:** Bom para operações básicas","x":-181,"y":-500,"width":270,"height":80,"color":"4"},
+		{"id":"fbea8f67aadd0b9c","type":"text","text":"**Desempenho:** Sem overhead de objetos","x":-181,"y":-280,"width":270,"height":80,"color":"4"}
 	],
 	"edges":[
-		{"id":"633cdd220354dae8","fromNode":"8708fca303cda421","fromSide":"left","toNode":"29726dbf18c2b101","toSide":"bottom"},
-		{"id":"c7bc78ce1d753416","fromNode":"29726dbf18c2b101","fromSide":"top","toNode":"6ae7d13d3b90f219","toSide":"bottom"},
 		{"id":"ac0ef1e8a987ce03","fromNode":"8708fca303cda421","fromSide":"bottom","toNode":"cba1991debfa5b67","toSide":"left"},
 		{"id":"3ae70140ea417fd8","fromNode":"6ae7d13d3b90f219","fromSide":"right","toNode":"b34b635379d334a4","toSide":"left"},
 		{"id":"d4d3b833b615829c","fromNode":"6ae7d13d3b90f219","fromSide":"right","toNode":"fbea8f67aadd0b9c","toSide":"left"},
 		{"id":"de47d6de23b8a7e9","fromNode":"6ae7d13d3b90f219","fromSide":"right","toNode":"b56a11bebce7226f","toSide":"left"},
-		{"id":"b35de22c2094378c","fromNode":"8708fca303cda421","fromSide":"right","toNode":"4b212c161156080a","toSide":"left"},
 		{"id":"51177b1e524bf509","fromNode":"8708fca303cda421","fromSide":"bottom","toNode":"5620505582c66449","toSide":"top"},
-		{"id":"a81b1df885c8a67e","fromNode":"8708fca303cda421","fromSide":"bottom","toNode":"c84d3e91d310edb7","toSide":"right"}
+		{"id":"a81b1df885c8a67e","fromNode":"8708fca303cda421","fromSide":"bottom","toNode":"c84d3e91d310edb7","toSide":"right"},
+		{"id":"b35de22c2094378c","fromNode":"8708fca303cda421","fromSide":"right","toNode":"4b212c161156080a","toSide":"left"},
+		{"id":"4f0aa03895238826","fromNode":"8708fca303cda421","fromSide":"left","toNode":"29726dbf18c2b101","toSide":"right"},
+		{"id":"1bbe868b378d3f49","fromNode":"8708fca303cda421","fromSide":"top","toNode":"6ae7d13d3b90f219","toSide":"bottom"}
 	]
 }
