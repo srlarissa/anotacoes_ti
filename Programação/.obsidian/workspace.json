@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Miscelânea/Documentação no GitHub com o README.md",
+                "file": "Java/Sintaxe/Tipos primitivos e Wrappers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Documentação no GitHub com o README"
+              "title": "Tipos primitivos e Wrappers"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cb63cbc56d492d2b",
@@ -172,8 +171,14 @@
   },
   "active": "d4f2d5a9ce1cec59",
   "lastOpenFiles": [
-    "Java/Interface Funcional.md",
     "Miscelânea/Documentação no GitHub com o README.md",
+    "Java/Sintaxe/Tipos primitivos.canvas",
+    "Java/Sintaxe/Tipos primitivos e Wrappers.md",
+    "Java/Sintaxe/Lambda.md",
+    "Java/Sintaxe/Interface Funcional.md",
+    "Java/Sintaxe/Classe wrapper.canvas",
+    "Java/Sintaxe",
+    "Java/Interface Funcional.md",
     "Miscelânea",
     "Java/Lambda.md",
     "Untitled.md",
