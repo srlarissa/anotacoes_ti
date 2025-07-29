@@ -1,4 +1,4 @@
-TO DO:
+**TO DO:** 
 
 - [ ] Adicionar uma tag com a licença do projeto no topo;
 - [ ] Breve descrição do que o projeto faz;
@@ -12,7 +12,7 @@ TO DO:
 		- [ ] Passo a passo de como rodar o projeto na minha máquina
 	- [ ] Estrutura do projeto
 		- [ ] Explicação de cada pasta e classe criada
-		- [ ] Documentação dos métodos 
+		- [ ] Documentação dos métodos com dados de entrada e de saída 
 		- [ ] Explicação da arquitetura utilizada e justificativa da aplicação
 	- [ ] Explicação sobre a escolha da AWS S3 como hospedagem
 		- [ ] Porque a AWS S3 e não outras opções (mesmo dentro da própria AWS)
