@@ -36,6 +36,20 @@ class Contador {
 }
 ```
 
+Outra forma de lidar com o problema da condição de corrida é utilizando blocos ```synchronized```, garantindo assim exclusão mútua ao utilizar recursos compartilhados. Existem duas formas de utilizar:
+
+```java
+public void incrementar() {
+    synchronized (this) {
+        contador++;
+    }
+}
+
+public synchronized void incrementar() {
+    contador++;
+}
+```
+
 **Obs:** É exigido cuidado com a sincronização, uma vez que o uso de multi-thread pode gerar condição de corrida *(modificar os mesmos dados ao mesmo tempo)*. Não apenas isso, nem todos os casos o uso de multi-thread trará mais performance, e, se utilizado levianamente, poderá ter o efeito oposto. 
 
 
