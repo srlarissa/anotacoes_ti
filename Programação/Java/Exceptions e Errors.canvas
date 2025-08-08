@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"fa7a9849758edcf1","x":-560,"y":-165,"width":145,"height":60,"color":"1","type":"text","text":"CHECKED"},
+		{"id":"767403290aa25d83","x":120,"y":-165,"width":165,"height":60,"color":"2","type":"text","text":"UNCHECKED"},
+		{"id":"e03f1c7c37dbb411","x":-820,"y":-60,"width":240,"height":240,"color":"1","type":"text","text":"São aquelas verificadas em tempo de compilação. Assim, o compilador exige que você trate elas seja com try/catch ou throws para que o código possa ser compilado."},
+		{"id":"72d25046078ac285","x":-520,"y":-26,"width":235,"height":172,"color":"1","type":"text","text":"**Exemplos:**\n\n- IOException\n- SQLException\n- ParseException"},
+		{"id":"e9fd2a0912ac4086","x":-617,"y":-370,"width":259,"height":120,"color":"1","type":"text","text":"São falhas **esperadas**, **recuperáveis**, e **geralmente externas** ao programa."},
+		{"id":"84a328038c55d163","x":50,"y":-378,"width":306,"height":137,"color":"2","type":"text","text":"Falhas de lógica **inesperadas**, precisando ser tratadas em **tempo de compilção** e com tratativa **opcional**."},
+		{"id":"b71b47dba969fe37","type":"text","text":"**EXCEPTIONS** ","x":-240,"y":-162,"width":160,"height":55,"color":"6"},
+		{"id":"5d40442b1d8a6d38","x":320,"y":-26,"width":250,"height":160,"color":"2","type":"text","text":"O código compila normalmente mas lançará um **erro em tempo de execução** quando o erro ocorrer."},
+		{"id":"fcd127a6708744e0","x":-20,"y":-54,"width":281,"height":217,"color":"2","type":"text","text":"**Exemplos:** \n\n- NullPointerException\n- ArrayIndexOutOfBoundsException\n- IllegalArgumentException\n- ArithmeticException"}
+	],
+	"edges":[
+		{"id":"35ad94b6016d4a79","fromNode":"b71b47dba969fe37","fromSide":"left","toNode":"fa7a9849758edcf1","toSide":"right"},
+		{"id":"473609caf46f0f60","fromNode":"b71b47dba969fe37","fromSide":"right","toNode":"767403290aa25d83","toSide":"left"},
+		{"id":"08435de85e92770c","fromNode":"fa7a9849758edcf1","fromSide":"left","toNode":"e03f1c7c37dbb411","toSide":"top"},
+		{"id":"2b91498e16ac0bc4","fromNode":"e03f1c7c37dbb411","fromSide":"right","toNode":"72d25046078ac285","toSide":"left"},
+		{"id":"510308e6af711616","fromNode":"fa7a9849758edcf1","fromSide":"top","toNode":"e9fd2a0912ac4086","toSide":"bottom"},
+		{"id":"0d0eb3ac9a9ca177","fromNode":"767403290aa25d83","fromSide":"top","toNode":"84a328038c55d163","toSide":"bottom"},
+		{"id":"58a85f4a9c222f09","fromNode":"767403290aa25d83","fromSide":"right","toNode":"5d40442b1d8a6d38","toSide":"top"},
+		{"id":"cb6d224295ee930d","fromNode":"5d40442b1d8a6d38","fromSide":"left","toNode":"fcd127a6708744e0","toSide":"right"}
+	]
+}

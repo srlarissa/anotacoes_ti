@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "3a30d7f98595b2f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "817267751b86cf11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c6609baba424c93",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Programação/Java/Exceptions e Errors.canvas",
+                "viewState": {
+                  "x": -276.30220341231706,
+                  "y": -140.62148922622364,
+                  "zoom": -0.7596676172812783
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Exceptions e Errors"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3e984823b8ca1df",
+    "type": "split",
+    "children": [
+      {
+        "id": "233ef03df9e28e56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eacd0e083c7deb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "66d5bbdf1272392d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d2ccfaf0e40597e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d06a3a8aa762b5c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "652a17b99a4a9de0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79fdec2060f2e247",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programação/Java/Exceptions e Errors.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Exceptions e Errors"
+            }
+          },
+          {
+            "id": "5dded94a9585f1c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programação/Java/Exceptions e Errors.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Exceptions e Errors"
+            }
+          },
+          {
+            "id": "b93d3d3b3d8c2df2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "faf47b40c1f65df9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programação/Java/Exceptions e Errors.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Exceptions e Errors"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c6609baba424c93",
+  "lastOpenFiles": [
+    "Programação/Java/Exceptions e Errors.canvas",
+    "Programação/Java/Untitled"
+  ]
+}
