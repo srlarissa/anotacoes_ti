@@ -52,5 +52,3 @@ public synchronized void incrementar() {
 
 **Obs:** É exigido cuidado com a sincronização, uma vez que o uso de multi-thread pode gerar condição de corrida *(modificar os mesmos dados ao mesmo tempo)*. Não apenas isso, nem todos os casos o uso de multi-thread trará mais performance, e, se utilizado levianamente, poderá ter o efeito oposto. 
 
-
-
