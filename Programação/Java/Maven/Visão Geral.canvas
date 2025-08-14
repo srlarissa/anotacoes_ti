@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"25f1f1a56fba072e","type":"text","text":"**MAVEN**","x":-125,"y":-30,"width":120,"height":60,"color":"6"},
+		{"id":"8279d392278ad1eb","type":"text","text":"**POR QUE?**\n\n- Para não ser necessário baixar e configurar bibliotecas manualmente;\n- Para reduzir a complexidade compilando, empacotando e rodando projetos, criando consistência e [estrutura](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FJava%2FMaven%2FOrganiza%C3%A7%C3%A3o%20de%20um%20projeto);\n- Para cada desenvolvedor de uma equipe não organizar os arquivos de forma diferente.","x":-580,"y":-170,"width":315,"height":340,"color":"2"},
+		{"id":"4f7e0ad410917d82","type":"text","text":"**O QUE?**\n\nUma ferramenta para automação de [build](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FJava%2FMaven%2FCiclo%20de%20vida%20de%20um%20Build.canvas) e gerenciador de dependências para projetos Java","x":-214,"y":-252,"width":300,"height":165,"color":"2"},
+		{"id":"e7e510f82eb52e7c","type":"text","text":"**COMO?**\n\n- Baixando e gerenciando dependências através do [pom.xml](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FJava%2FMaven%2FProject%20Object%20Model%20(pom.xml)) ;\n- [Automatizando tarefas](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FJava%2FMaven%2FCiclo%20de%20vida%20de%20um%20Build.canvas)(testando, compilando, empacotando, instalando, publicando, etc.);\n- Usa uma estrutura de diretórios padrão, o que facilita a colaboração em equipe.","x":-222,"y":80,"width":315,"height":340,"color":"2"}
+	],
+	"edges":[
+		{"id":"2a754641f855e350","fromNode":"25f1f1a56fba072e","fromSide":"bottom","toNode":"e7e510f82eb52e7c","toSide":"top"},
+		{"id":"351b04be596d76dd","fromNode":"25f1f1a56fba072e","fromSide":"top","toNode":"4f7e0ad410917d82","toSide":"bottom"},
+		{"id":"61b9b4707f05f80d","fromNode":"25f1f1a56fba072e","fromSide":"left","toNode":"8279d392278ad1eb","toSide":"right"}
+	]
+}

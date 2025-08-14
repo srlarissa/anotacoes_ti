@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"386204574bb07c39","type":"text","text":"4. **PACKAGE:** Empacota, gerando o .jar ou .war\n\n","x":-137,"y":210,"width":317,"height":60,"color":"2"},
+		{"id":"acffa9b211719d95","type":"text","text":"2. **COMPILE:** Compila o código\n\n","x":-540,"y":-150,"width":317,"height":60,"color":"2"},
+		{"id":"9d0006326297afd2","type":"text","text":"3. **TESTE:** Roda os testes\n\n","x":-540,"y":30,"width":317,"height":60,"color":"2"},
+		{"id":"86c37b64ffe21461","type":"text","text":"5. **INSTALL:** Instala no repositório local\n\n","x":320,"y":200,"width":317,"height":80,"color":"2"},
+		{"id":"ec050067d1c7436c","type":"text","text":"6. **DEPLOY:** Publica em repositório remoto\n\n","x":320,"y":-90,"width":317,"height":90,"color":"4"},
+		{"id":"7b23b3a9ecebff5a","type":"text","text":"1. **VALIDATE:** Verifica se o projeto está ok.","x":-137,"y":-390,"width":317,"height":80,"color":"2"},
+		{"id":"70dedf72fbdadfda","type":"text","text":"**CICLO DE VIDA DE UMA BUILD**","x":320,"y":-380,"width":305,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"386f04ef46861214","fromNode":"7b23b3a9ecebff5a","fromSide":"left","toNode":"acffa9b211719d95","toSide":"top"},
+		{"id":"9d8143ea1f455b39","fromNode":"acffa9b211719d95","fromSide":"bottom","toNode":"9d0006326297afd2","toSide":"top"},
+		{"id":"5d2e25624134534e","fromNode":"9d0006326297afd2","fromSide":"bottom","toNode":"386204574bb07c39","toSide":"left"},
+		{"id":"2abdb9d9f0171e67","fromNode":"70dedf72fbdadfda","fromSide":"left","toNode":"7b23b3a9ecebff5a","toSide":"right"},
+		{"id":"a3db476e07b51317","fromNode":"386204574bb07c39","fromSide":"right","toNode":"86c37b64ffe21461","toSide":"left"},
+		{"id":"8487d47989de23c6","fromNode":"86c37b64ffe21461","fromSide":"top","toNode":"ec050067d1c7436c","toSide":"bottom"}
+	]
+}
