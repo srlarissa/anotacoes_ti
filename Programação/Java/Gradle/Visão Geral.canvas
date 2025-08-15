@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d6bbf205415335c7","type":"text","text":"**GRADLE**","x":-125,"y":-30,"width":125,"height":50,"color":"6"},
+		{"id":"49ef8ea69fde2d4a","type":"text","text":"**O QUE?** \n\nUma ferramenta de automação de build, a qual é capaz de:\n\n- Compilar código;\n- Gerenciar dependências;\n- Rodar testes;\n- Empacotar em .jar ou .war;\n- Publicar artefatos;\n- Executar a aplicação;\n- Integrar com CI/CD","x":-220,"y":-440,"width":315,"height":340,"color":"2"},
+		{"id":"f43127e46b0ec1cd","type":"text","text":"**POR QUE?** \n\nSem a utilização de Gradle ou algum outro similar ([Maven](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FJava%2FMaven%2FVis%C3%A3o%20Geral.canvas), Ant, etc.) compilar, executar, empacotar e testar aplicações teria que ser feito manualmente. Outra importância das automações de build é a padronização e demais indicadores de qualidade (checkstyle, spotbugs, jacoco ou lint).","x":-600,"y":-175,"width":315,"height":340,"color":"2"},
+		{"id":"a6dd02efbf53fb19","type":"text","text":"**COMO?** \n\nO Gradle utiliza tasks (unidade de trabalho) para executar rotinas no código. Além disso, plugins podem adicionar tasks adicionais e convenções. O Gradle também pode ser utilizado para configuração de dependências. O wrapper (gradlew e gradlew.bat) garantem a versão mais recente do Gradle no projeto.","x":-220,"y":100,"width":315,"height":340,"color":"2"},
+		{"id":"e69679465cb6c65c","x":140,"y":-105,"width":360,"height":200,"color":"4","type":"text","text":"**DIFERENCIAL** \n\nDiferente do Ant e do Maven, o Gradle é mais flexível e performático utilizando cache, execução incremental e paralelismo."}
+	],
+	"edges":[
+		{"id":"a5e3de105991e04b","fromNode":"d6bbf205415335c7","fromSide":"top","toNode":"49ef8ea69fde2d4a","toSide":"bottom"},
+		{"id":"50a1153e787984e8","fromNode":"d6bbf205415335c7","fromSide":"left","toNode":"f43127e46b0ec1cd","toSide":"right"},
+		{"id":"2f1522b8d3cd0997","fromNode":"d6bbf205415335c7","fromSide":"bottom","toNode":"a6dd02efbf53fb19","toSide":"top"},
+		{"id":"0c8e9d0c77b27a14","fromNode":"d6bbf205415335c7","fromSide":"right","toNode":"e69679465cb6c65c","toSide":"left"}
+	]
+}
