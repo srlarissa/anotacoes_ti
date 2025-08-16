@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"a793ef96df2d9fb1","type":"text","text":"**COLLECTIONS**","x":-125,"y":-30,"width":185,"height":60,"color":"6"},
+		{"id":"e73565d31c8c25ed","type":"text","text":"**LIST**\n\n- Derivam dos Arrays;\n- Tem comprimento dinâmico;\n- Aceitam itens duplicados.","x":-181,"y":-360,"width":297,"height":180,"color":"2"},
+		{"id":"084c08e27c4fdea1","type":"text","text":"**MAP**\n\n","x":-560,"y":-120,"width":297,"height":240,"color":"1"},
+		{"id":"38702584fd651165","type":"text","text":"**QUEUE**\n\n","x":-181,"y":160,"width":297,"height":240,"color":"5"},
+		{"id":"a7f0780786390ef5","type":"text","text":"**SET**\n\n","x":180,"y":-120,"width":297,"height":240,"color":"4"}
+	],
+	"edges":[
+		{"id":"6fa4fc428cf44a75","fromNode":"a793ef96df2d9fb1","fromSide":"top","toNode":"e73565d31c8c25ed","toSide":"bottom"},
+		{"id":"d0e92be85868c852","fromNode":"a793ef96df2d9fb1","fromSide":"left","toNode":"084c08e27c4fdea1","toSide":"right"},
+		{"id":"85b02c933d150ebe","fromNode":"a793ef96df2d9fb1","fromSide":"bottom","toNode":"38702584fd651165","toSide":"top"},
+		{"id":"42a2a9726abfca6d","fromNode":"a793ef96df2d9fb1","fromSide":"right","toNode":"a7f0780786390ef5","toSide":"left"}
+	]
+}
