@@ -1,4 +1,3 @@
-
 **Definição:** São linhas de execução independentes dentro de uma aplicação. Dessa forma, podemos criar algoritmos que funcionem em uma ou múltiplas threads. 
 
 # Single-thread

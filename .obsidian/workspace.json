@@ -11,17 +11,14 @@
             "id": "8c6609baba424c93",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programação/Java/Exceptions e Errors.canvas",
-                "viewState": {
-                  "x": -276.30220341231706,
-                  "y": -140.62148922622364,
-                  "zoom": -0.7596676172812783
-                }
+                "file": "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Exceptions e Errors"
+              "icon": "lucide-file",
+              "title": "Tipos primitivos e Wrappers"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Java/Exceptions e Errors.canvas",
+                "file": "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Exceptions e Errors"
+              "title": "Backlinks for Tipos primitivos e Wrappers"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/Java/Exceptions e Errors.canvas",
+                "file": "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Exceptions e Errors"
+              "title": "Outgoing links from Tipos primitivos e Wrappers"
             }
           },
           {
@@ -145,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/Java/Exceptions e Errors.canvas",
+                "file": "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exceptions e Errors"
+              "title": "Outline of Tipos primitivos e Wrappers"
             }
           }
         ]
@@ -173,6 +170,13 @@
   },
   "active": "8c6609baba424c93",
   "lastOpenFiles": [
+    "Programação/Java/Sintaxe/Tipos primitivos.canvas",
+    "Programação/Java/Sintaxe/Classe wrapper.canvas",
+    "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
+    "Programação/Java/Sintaxe/Threads.md",
+    "Programação/Java/Sintaxe/Interface Funcional.md",
+    "Programação/Java/Sintaxe/Lambda.md",
+    "Programação/Java/Sintaxe/AtomicInteger.md",
     "Programação/Java/Exceptions e Errors.canvas",
     "Programação/Java/Untitled"
   ]
