@@ -8,20 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c6609baba424c93",
+            "id": "b9fb8bd625caef80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
-                "mode": "source",
-                "source": false
+                "file": "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png"
               },
-              "icon": "lucide-file",
-              "title": "Tipos primitivos e Wrappers"
+              "icon": "lucide-image",
+              "title": "Hierarquia de Collections"
+            }
+          },
+          {
+            "id": "dc54c50f00647791",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Programação/Java/Sintaxe/Collections/Collections.canvas",
+                "viewState": {
+                  "x": -213.88157098790208,
+                  "y": 751.0528994265196,
+                  "zoom": -1.8956104743480704
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Collections"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,16 +184,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c6609baba424c93",
+  "active": "dc54c50f00647791",
   "lastOpenFiles": [
+    "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png",
+    "Programação/Java/Sintaxe/Collections/Collections.canvas",
+    "Programação/Java/Sintaxe/Exceptions e Errors.canvas",
+    "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
     "Programação/Java/Sintaxe/Tipos primitivos.canvas",
     "Programação/Java/Sintaxe/Classe wrapper.canvas",
-    "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
     "Programação/Java/Sintaxe/Threads.md",
     "Programação/Java/Sintaxe/Interface Funcional.md",
     "Programação/Java/Sintaxe/Lambda.md",
     "Programação/Java/Sintaxe/AtomicInteger.md",
-    "Programação/Java/Exceptions e Errors.canvas",
     "Programação/Java/Untitled"
   ]
 }
