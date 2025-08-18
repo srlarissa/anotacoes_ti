@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b9fb8bd625caef80",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png"
-              },
-              "icon": "lucide-image",
-              "title": "Hierarquia de Collections"
-            }
-          },
-          {
             "id": "dc54c50f00647791",
             "type": "leaf",
             "state": {
@@ -27,17 +15,16 @@
               "state": {
                 "file": "Programação/Java/Sintaxe/Collections/Collections.canvas",
                 "viewState": {
-                  "x": -1208.4513477162225,
-                  "y": -231.98316772427543,
-                  "zoom": -1.3644028485318056
+                  "x": 107.79210680579095,
+                  "y": -85.9469785925611,
+                  "zoom": -1.9058060302337017
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Collections"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d06a3a8aa762b5c3",
@@ -188,6 +176,7 @@
   "lastOpenFiles": [
     "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png",
     "Programação/Java/Sintaxe/Collections/Collections.canvas",
+    "Programação/Tópicos pendentes.md",
     "Programação/Java/Sintaxe/Exceptions e Errors.canvas",
     "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
     "Programação/Java/Sintaxe/Tipos primitivos.canvas",
