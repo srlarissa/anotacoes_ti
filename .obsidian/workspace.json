@@ -8,20 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dc54c50f00647791",
+            "id": "7b86491f3a1562fc",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Programação/Java/Sintaxe/Collections/Collections.canvas",
                 "viewState": {
-                  "x": 107.79210680579095,
-                  "y": -85.9469785925611,
-                  "zoom": -1.9058060302337017
+                  "x": -102.21950041566075,
+                  "y": -276.39711705394154,
+                  "zoom": -2.5971965221067297
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Collections"
+            }
+          },
+          {
+            "id": "052f3ae7fc9b2fd0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png"
+              },
+              "icon": "lucide-image",
+              "title": "Hierarquia de Collections"
             }
           }
         ]
@@ -81,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d06a3a8aa762b5c3",
@@ -172,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc54c50f00647791",
+  "active": "7b86491f3a1562fc",
   "lastOpenFiles": [
     "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png",
     "Programação/Java/Sintaxe/Collections/Collections.canvas",
