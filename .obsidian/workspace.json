@@ -11,17 +11,14 @@
             "id": "7b86491f3a1562fc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programação/Java/Sintaxe/Collections/Collections.canvas",
-                "viewState": {
-                  "x": -102.21950041566075,
-                  "y": -276.39711705394154,
-                  "zoom": -2.5971965221067297
-                }
+                "file": "Programação/Miscelânea/Big O Notation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Collections"
+              "icon": "lucide-file",
+              "title": "Big O Notation"
             }
           },
           {
@@ -185,9 +182,10 @@
   },
   "active": "7b86491f3a1562fc",
   "lastOpenFiles": [
-    "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png",
-    "Programação/Java/Sintaxe/Collections/Collections.canvas",
     "Programação/Tópicos pendentes.md",
+    "Programação/Java/Sintaxe/Collections/Collections.canvas",
+    "Programação/Miscelânea/Big O Notation.md",
+    "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png",
     "Programação/Java/Sintaxe/Exceptions e Errors.canvas",
     "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
     "Programação/Java/Sintaxe/Tipos primitivos.canvas",
