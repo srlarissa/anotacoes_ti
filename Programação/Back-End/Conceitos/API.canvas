@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"cb0a07f14bf5ade8","x":-212,"y":-420,"width":260,"height":180,"color":"2","type":"text","text":"**O QUE É?** \n\nUm tipo de aplicação backend para ceder dados e serviços de forma padronizada."},
+		{"id":"796c727b23ce9f0f","type":"text","text":"**PARA QUE SERVE?** \n\nReceber e processar dados em serviços e devolvendo o resultado (resposta) para outras aplicações (quer seja back ou frontend).","x":-740,"y":-105,"width":260,"height":210,"color":"2"},
+		{"id":"018179122dd02e93","type":"text","text":"**COMO FUNCIONA?** \n\nSendo uma aplicação programada, que utiliza protocolos com padrão para servir esses dados. (no caso web, o padrão é o HTTP).","x":-212,"y":240,"width":260,"height":220,"color":"2"},
+		{"id":"58d60594e42b8648","x":-264,"y":-35,"width":365,"height":70,"color":"6","type":"text","text":"**API (Aplication Programming interface)**"},
+		{"id":"b6e9ea9a1ace3b62","type":"text","text":"**CARACTERÍSTICA:** \n\n- Ter um protocolo de comunicação rígido (tanto para respostas quanto para requisições);\n- Sempre serve algum conteúdo (content), o qual irá variar de acordo com o protocolo adotado;\n- Seguir padrões de arquitetura no desenvolvimento (como nomes e estruturas de pasta, etc.), como, por exemplo, o REST (Representional State Transfer);","x":300,"y":-175,"width":440,"height":350,"color":"2"},
+		{"id":"ec63a26ef9ce46ab","x":940,"y":-30,"width":440,"height":350,"color":"5","type":"text","text":"**CARACTERÍSTICAS DE UMA API REST:** \n\n- API Cliente x Servidor, ou seja, back e frontend separados;\n- Comunicação stateless, ou seja, não guarda o state das operações feitas;\n- Possibilidade de usar Cache;\n- Interface uniforme, ou seja, se existe um tipo de formato que é a resposta padrão da API (por exemplo, JSON com o protocolo HTTP), esse tipo de resposta sempre será utilizada;\n- Aplicações construídas em camadas;"},
+		{"id":"588780e6ee54c313","x":1160,"y":-314,"width":364,"height":139,"color":"4","type":"text","text":"Não é obrigatório que todas as características para uma API REST sejam respeitadas. Mas, caso o sejam, essa API será chamada de RESTful."}
+	],
+	"edges":[
+		{"id":"e02b45c79617fbdf","fromNode":"58d60594e42b8648","fromSide":"top","toNode":"cb0a07f14bf5ade8","toSide":"bottom"},
+		{"id":"15fba8a1baa42a8d","fromNode":"58d60594e42b8648","fromSide":"left","toNode":"796c727b23ce9f0f","toSide":"right"},
+		{"id":"ed820fb9ad6dedc1","fromNode":"58d60594e42b8648","fromSide":"bottom","toNode":"018179122dd02e93","toSide":"top"},
+		{"id":"ad11ecb703cb3bf3","fromNode":"58d60594e42b8648","fromSide":"right","toNode":"b6e9ea9a1ace3b62","toSide":"left"},
+		{"id":"239c6305ff522555","fromNode":"b6e9ea9a1ace3b62","fromSide":"right","toNode":"ec63a26ef9ce46ab","toSide":"left"},
+		{"id":"2e1a7189e31742cf","fromNode":"ec63a26ef9ce46ab","fromSide":"top","toNode":"588780e6ee54c313","toSide":"bottom"}
+	]
+}
