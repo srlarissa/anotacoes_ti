@@ -11,17 +11,14 @@
             "id": "7b86491f3a1562fc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programação/Back-End/Conceitos/API.canvas",
-                "viewState": {
-                  "x": 713.9653983542879,
-                  "y": 48.18637427838138,
-                  "zoom": -1.628612226297459
-                }
+                "file": "Programação/Tópicos pendentes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "API"
+              "icon": "lucide-file",
+              "title": "Tópicos pendentes"
             }
           },
           {
@@ -183,17 +180,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1eacd0e083c7deb6",
+  "active": "7b86491f3a1562fc",
   "lastOpenFiles": [
+    "Escopos - Spring.png",
+    "Programação/Tópicos pendentes.md",
+    "Modulos - Spring.png",
+    "Programação/Back-End/Conceitos/API.canvas",
     "Programação/Spring Boot",
     "Programação/Java/Sintaxe/Collections/Collections.canvas",
-    "Programação/Back-End/Conceitos/API.canvas",
     "Programação/Back-End/Conceitos",
     "Programação/Back-End",
     "Programação/Java/Sintaxe/Lambda.md",
     "Programação/Miscelânea/Big O Notation.md",
     "Programação/Banco de Dados",
-    "Programação/Tópicos pendentes.md",
     "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png",
     "Programação/Java/Sintaxe/Exceptions e Errors.canvas",
     "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
