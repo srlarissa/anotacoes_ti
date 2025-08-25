@@ -4,33 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "817267751b86cf11",
+        "id": "dfca3f9d16fb749b",
         "type": "tabs",
         "children": [
           {
-            "id": "7b86491f3a1562fc",
+            "id": "466922b231e1a98e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Programação/Tópicos pendentes.md",
-                "mode": "source",
-                "source": false
+                "file": "Programação/Back-End/Conceitos/Untitled.canvas",
+                "viewState": {
+                  "x": 267.81386620813834,
+                  "y": -978.3301759240062,
+                  "zoom": -1.6660478905340044
+                }
               },
-              "icon": "lucide-file",
-              "title": "Tópicos pendentes"
-            }
-          },
-          {
-            "id": "052f3ae7fc9b2fd0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png"
-              },
-              "icon": "lucide-image",
-              "title": "Hierarquia de Collections"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -180,20 +171,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b86491f3a1562fc",
+  "active": "466922b231e1a98e",
   "lastOpenFiles": [
-    "Escopos - Spring.png",
     "Programação/Tópicos pendentes.md",
+    "Programação/Back-End/Conceitos/Untitled.canvas",
+    "Entity Management.png",
+    "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png",
+    "ORM.png",
+    "Programação/Java/Sintaxe/Collections/Collections.canvas",
+    "Escopos - Spring.png",
     "Modulos - Spring.png",
     "Programação/Back-End/Conceitos/API.canvas",
     "Programação/Spring Boot",
-    "Programação/Java/Sintaxe/Collections/Collections.canvas",
     "Programação/Back-End/Conceitos",
     "Programação/Back-End",
     "Programação/Java/Sintaxe/Lambda.md",
     "Programação/Miscelânea/Big O Notation.md",
     "Programação/Banco de Dados",
-    "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png",
     "Programação/Java/Sintaxe/Exceptions e Errors.canvas",
     "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
     "Programação/Java/Sintaxe/Tipos primitivos.canvas",
