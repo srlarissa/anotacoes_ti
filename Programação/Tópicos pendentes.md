@@ -2,6 +2,10 @@
 # Estrutura de Dados
 - [ ] Heap (percolação);
 
+
+# Algoritmos
+
+- [ ] Problemas de contagem
 # Java
 
 - [ ] Stream API;
@@ -30,3 +34,4 @@
 - [ ] [Entity Management](obsidian://open?vault=anotacoes_ti&file=Entity%20Management.png)
 - [ ] Repository Pattern
 - [ ] JPQL
+- [ ] REST Controller

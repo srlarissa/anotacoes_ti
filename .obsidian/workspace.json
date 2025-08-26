@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dfca3f9d16fb749b",
+        "id": "7ae569f5bcfac535",
         "type": "tabs",
         "children": [
           {
-            "id": "466922b231e1a98e",
+            "id": "79331b4d9156355e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programação/Back-End/Conceitos/Untitled.canvas",
-                "viewState": {
-                  "x": 267.81386620813834,
-                  "y": -978.3301759240062,
-                  "zoom": -1.6660478905340044
-                }
+                "file": "Programação/Tópicos pendentes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Tópicos pendentes"
             }
           }
         ]
@@ -171,16 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "466922b231e1a98e",
+  "active": "1eacd0e083c7deb6",
   "lastOpenFiles": [
+    "Programação/Lab de Resolução de Problemas/Módulo 1.md",
     "Programação/Tópicos pendentes.md",
+    "Programação/Lab de Resolução de Problemas",
+    "Modulos - Spring.png",
     "Programação/Back-End/Conceitos/Untitled.canvas",
     "Entity Management.png",
     "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png",
     "ORM.png",
     "Programação/Java/Sintaxe/Collections/Collections.canvas",
     "Escopos - Spring.png",
-    "Modulos - Spring.png",
     "Programação/Back-End/Conceitos/API.canvas",
     "Programação/Spring Boot",
     "Programação/Back-End/Conceitos",
