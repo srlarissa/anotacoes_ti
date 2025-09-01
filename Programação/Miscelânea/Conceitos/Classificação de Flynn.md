@@ -8,7 +8,7 @@ Este é o modelo de computador **sequencial mais comum e básico**. Em um sistem
 
 Computadores históricos como o Univac 1, IBM 360, CDC 7600, e até mesmo um laptop moderno (quando executando uma única sequência de instruções) são exemplos de sistemas SISD.
 
-A [programação sequencial](C:\Users\laris\Documents\Estudo\Obsidian\anotacoes_ti\Programação\Miscelânea\Conceitos\Programação Sequencial.md) se alinha perfeitamente com a arquitetura SISD, onde o programa é uma série de instruções executadas linearmente por uma única UCP. No entanto, existem limites físicos e termodinâmicos para o aumento contínuo da velocidade em sistemas sequenciais, o que impulsionou o desenvolvimento da computação paralela.
+A [programação sequencial](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FMiscel%C3%A2nea%2FConceitos%2FPrograma%C3%A7%C3%A3o%20Sequencial) se alinha perfeitamente com a arquitetura SISD, onde o programa é uma série de instruções executadas linearmente por uma única UCP. No entanto, existem limites físicos e termodinâmicos para o aumento contínuo da velocidade em sistemas sequenciais, o que impulsionou o desenvolvimento da computação paralela.
 
 2. **SIMD (Single Instruction, Multiple Data):**
 
