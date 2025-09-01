@@ -1,0 +1,6 @@
+
+Em uma arquitetura **[MIMD](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FMiscel%C3%A2nea%2FConceitos%2FClassifica%C3%A7%C3%A3o%20de%20Flynn#^As-classificações-se-dividem-nas-quatro-categorias-abaixo) (Multiple Instruction, Multiple Data)**, o compartilhamento de memória é uma das formas fundamentais de organização para permitir que múltiplos processadores trabalhem em conjunto. Nestes sistemas, **cada UCP (Unidade Central de Processamento) pode executar instruções diferentes e utilizar dados diferentes**.
+
+### Conceitos centrais:
+
+Em arquiteturas com memória compartilhada são dividias em duas classes principais: [UMA](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FComputa%C3%A7%C3%A3o%20de%20Nuvem%20e%20Alto%20Desempenho%2FGloss%C3%A1rio%2FUMA) e [NUMA](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FComputa%C3%A7%C3%A3o%20de%20Nuvem%20e%20Alto%20Desempenho%2FGloss%C3%A1rio%2FNUMA), e **todos os processadores acessam um espaço de endereçamento global**. Isso significa que, independentemente de qual processador modificou um dado na memória, essa **mudança é visível para todos os outros processadores**. A comunicação entre os processadores é realizada indiretamente através de operações de leitura (loads) e escrita (stores) nesse espaço de endereçamento compartilhado.

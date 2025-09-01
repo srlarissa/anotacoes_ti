@@ -1,10 +1,12 @@
 A **Classificação de Flynn** é um esquema fundamental para categorizar as arquiteturas de computadores paralelos, proposta com base na **quantidade de instruções e dados que são processados simultaneamente** em um determinado momento. Essa classificação ajuda a entender como os sistemas de computação lidam com o paralelismo em nível de hardware.
 
-### As classificações se dividem nas quatro categorias abaixo:
+### As classificações se dividem nas quatro categorias abaixo
 
 1. **SISD (Single Instruction, Single Data):**
 
 Este é o modelo de computador **sequencial mais comum e básico**. Em um sistema SISD, existe **um único contador de programa**, o que significa que **apenas uma instrução é executada de cada vez** e essa instrução opera sobre **um único fluxo de dados**. As instruções são processadas estritamente em sequência, uma após a outra. 
+
+![[Pasted image 20250901161012.png]]
 
 Computadores históricos como o Univac 1, IBM 360, CDC 7600, e até mesmo um laptop moderno (quando executando uma única sequência de instruções) são exemplos de sistemas SISD.
 
@@ -14,17 +16,23 @@ A [programação sequencial](obsidian://open?vault=Obsidian&file=anotacoes_ti%2F
 
 Em uma arquitetura SIMD, existe **um único contador de programa** e **uma única instrução é executada por diversos processadores simultaneamente**, porém, cada processador opera sobre **diferentes dados**. Isso significa que todas as Unidades Centrais de Processamento (UCPs) executam a mesma instrução de forma **síncrona**, mas com conjuntos de dados distintos. É considerado o **nível mais interno de paralelismo**.
 
+![[Pasted image 20250901161048.png]]
+
 Processadores vetoriais e arrays de processadores utilizam essa arquitetura. As **GPUs (Graphical Processing Units)** são um exemplo proeminente de processadores que utilizam a arquitetura SIMD. Historicamente, essa abordagem foi implementada com o CRAY-1 e ressurgiu em processadores comuns em 1997 com instruções como MMX, SEE, AVX e AVX-512.
 
 3. **MISD (Multiple Instruction, Single Data):**
 
 Neste modelo, **um único fluxo de dados é executado por várias UCPs**, cada uma utilizando **instruções diferentes**. A ideia é que múltiplos processadores executem operações distintas sobre a mesma informação.
 
+![[Pasted image 20250901161116.png]]
+
 Existem **poucos exemplos reais** de arquiteturas deste tipo. Embora seja uma categoria teórica importante para completar a classificação de Flynn e para a competição entre algoritmos, sua aplicação prática é limitada.
 
 4. **MIMD (Multiple Instruction, Multiple Data)**
 
 O MIMD é o **tipo mais comum de computador paralelo**. Nesta arquitetura, existem **vários contadores de programa**, permitindo que **cada UCP execute instruções diferentes** e opere sobre **dados diferentes**. Isso oferece a maior flexibilidade para o paralelismo.
+
+![[Pasted image 20250901161130.png]]
 
 **Supercomputadores, clusters, grades computacionais (Grids) e processadores multi-core** são todos exemplos de sistemas MIMD
 
