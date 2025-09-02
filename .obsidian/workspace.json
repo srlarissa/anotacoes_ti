@@ -11,10 +11,14 @@
             "id": "7e675117c89c24f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Programação/Lab de Resolução de Problemas/Módulo 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Módulo 1"
             }
           }
         ]

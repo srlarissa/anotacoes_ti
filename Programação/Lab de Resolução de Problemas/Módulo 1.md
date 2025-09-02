@@ -14,4 +14,3 @@
 	3. classe Nó, contendo linha e coluna que o nó esta posicionado;
 	4. classe Resultado, contendo a distância percorrida e o caminho reconstruído.
 2. Inicializar o tabuleiro colocando o ponto de partida com distância 0;
-3. Enfileira 
