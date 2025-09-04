@@ -11,17 +11,14 @@
             "id": "1a4d3307fd7bf7b4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Programação/Banco de Dados/Exercício (03-09).canvas",
-                "viewState": {
-                  "x": -539.6884003792726,
-                  "y": -2498.7599666590745,
-                  "zoom": -1.3199728423576933
-                }
+                "file": "Programação/Banco de Dados/Glossário/Banco de Dados.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Exercício (03-09)"
+              "icon": "lucide-file",
+              "title": "Banco de Dados"
             }
           }
         ]
@@ -81,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d06a3a8aa762b5c3",
@@ -171,9 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1eacd0e083c7deb6",
+  "active": "1a4d3307fd7bf7b4",
   "lastOpenFiles": [
+    "Programação/Banco de Dados/Glossário/Banco de Dados.md",
     "Programação/Banco de Dados/Exercício (03-09).canvas",
+    "Programação/Banco de Dados/Glossário",
     "Programação/Banco de Dados/Exercício (03-09).md",
     "Programação/Lab de Resolução de Problemas/Módulo 1.md",
     "Programação/ProvInCiA/Sobre o ProvInCiA.md",
