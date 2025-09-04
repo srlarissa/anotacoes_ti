@@ -4,21 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "093490d6f3c6c0a9",
+        "id": "577320acced03594",
         "type": "tabs",
         "children": [
           {
-            "id": "69603027ac5894e2",
+            "id": "48ccdff58aa96a56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/ProvInCiA/Sobre o ProvInCiA.md",
+                "file": "Programação/Lab de Resolução de Problemas/Módulo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sobre o ProvInCiA"
+              "title": "Módulo 1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4db61e3570076d01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a4d3307fd7bf7b4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Programação/Banco de Dados/Exercício (03-09).canvas",
+                "viewState": {
+                  "x": 422.661571082111,
+                  "y": -1816.4584281629716,
+                  "zoom": -2.0358221384882955
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Exercício (03-09)"
             }
           }
         ]
@@ -94,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
+                "file": "Programação/Lab de Resolução de Problemas/Módulo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tipos primitivos e Wrappers"
+              "title": "Backlinks for Módulo 1"
             }
           },
           {
@@ -169,10 +192,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69603027ac5894e2",
+  "active": "48ccdff58aa96a56",
   "lastOpenFiles": [
-    "Programação/Untitled.canvas",
+    "Programação/Banco de Dados/Exercício (03-09).md",
+    "Programação/Banco de Dados/Exercício (03-09).canvas",
     "Programação/ProvInCiA/Sobre o ProvInCiA.md",
+    "Programação/ProvInCiA/Captura em video.md",
+    "Programação/ProvInCiA/Códigos pré-existentes/Soma.md",
+    "Programação/ProvInCiA/Códigos pré-existentes",
+    "Programação/Untitled.canvas",
     "Programação/ProvInCiA",
     "Programação/Lab de Resolução de Problemas/Módulo 1.md",
     "Programação/Tópicos pendentes.md",

@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"fbb0b5f4afc1cb52","type":"text","text":"**CAMPEONATO**\n\n- Código;\n- Nome;\n- Edição.","x":470,"y":-1080,"width":260,"height":160,"color":"5"},
+		{"id":"c9fc1a12b19deb6b","type":"text","text":"**TEMPORADA**\n\n- Ano.","x":-450,"y":-1050,"width":240,"height":100,"color":"5"},
+		{"id":"2b902a5068b454a3","type":"text","text":"**EDIÇÃO**\n\n*(ENTIDADE ASSOCIATIVA)*","x":68,"y":-1050,"width":160,"height":110,"color":"6"},
+		{"id":"0a40b9622ae66598","type":"text","text":"**OCORREM**\n\n","x":68,"y":-1380,"width":160,"height":60,"color":"1"},
+		{"id":"37c952c074f66ab8","type":"text","text":"**JOGOS**\n\n- Equipe mandante;\n- Equipe visitante;\n- Cartões;\n- Gols","x":28,"y":-1800,"width":240,"height":180,"color":"5"},
+		{"id":"072fddc1544706fc","type":"text","text":"**CLUBE**\n\n- Nome;\n- CNPJ;\n- Endereço;\n- Telefone.","x":-912,"y":-2520,"width":260,"height":180,"color":"5"},
+		{"id":"103300b366c5488b","type":"text","text":"**EQUIPE**\n\n- Código;\n- Nome.","x":28,"y":-2500,"width":240,"height":140,"color":"5"},
+		{"id":"b58a59b7f89ba55b","type":"text","text":"**POSSUI**","x":-372,"y":-2460,"width":112,"height":61,"color":"1"},
+		{"id":"d0fb95359337ed46","type":"text","text":"**VISITANTE**","x":202,"y":-2085,"width":132,"height":61,"color":"1"},
+		{"id":"ed4de60f1c01dd8c","type":"text","text":"**MANDANTE**","x":-48,"y":-2079,"width":152,"height":50,"color":"1"},
+		{"id":"a81c552717e1df93","type":"text","text":"**JOGADOR**\n\n- Código;\n- Nome.","x":28,"y":-3040,"width":240,"height":140,"color":"5"},
+		{"id":"583e63e4ddd4dbec","type":"text","text":"**POSSUI**","x":92,"y":-2700,"width":112,"height":61,"color":"1"},
+		{"id":"428f507476f668f0","type":"text","text":"**PARTICIPA**\n- Gols;\n- Cartões.","x":674,"y":-2460,"width":186,"height":120,"color":"1"}
+	],
+	"edges":[
+		{"id":"7cbf9c4afb346339","fromNode":"072fddc1544706fc","fromSide":"right","toNode":"b58a59b7f89ba55b","toSide":"left","toEnd":"none","label":"1,1"},
+		{"id":"5e020ff8ac505d97","fromNode":"b58a59b7f89ba55b","fromSide":"right","toNode":"103300b366c5488b","toSide":"left","toEnd":"none","label":"1,N"},
+		{"id":"164135c9d50b3a7a","fromNode":"c9fc1a12b19deb6b","fromSide":"right","toNode":"2b902a5068b454a3","toSide":"left","toEnd":"none","label":"1, N"},
+		{"id":"21146f9961a3f75c","fromNode":"2b902a5068b454a3","fromSide":"right","toNode":"fbb0b5f4afc1cb52","toSide":"left","toEnd":"none","label":"1, N"},
+		{"id":"6bcb939c28931631","fromNode":"2b902a5068b454a3","fromSide":"top","toNode":"0a40b9622ae66598","toSide":"bottom","toEnd":"none","label":"1,1"},
+		{"id":"0c4f9622a29d824e","fromNode":"0a40b9622ae66598","fromSide":"top","toNode":"37c952c074f66ab8","toSide":"bottom","toEnd":"none","label":"1,N"},
+		{"id":"740195b59e86f20d","fromNode":"103300b366c5488b","fromSide":"bottom","toNode":"ed4de60f1c01dd8c","toSide":"top","toEnd":"none","label":"1,N"},
+		{"id":"eabe594becb8f48d","fromNode":"ed4de60f1c01dd8c","fromSide":"bottom","toNode":"37c952c074f66ab8","toSide":"top","toEnd":"none","label":"1,1"},
+		{"id":"2065251545c36862","fromNode":"103300b366c5488b","fromSide":"bottom","toNode":"d0fb95359337ed46","toSide":"top","toEnd":"none","label":"1,N"},
+		{"id":"22fcfa528f5604f4","fromNode":"d0fb95359337ed46","fromSide":"bottom","toNode":"37c952c074f66ab8","toSide":"top","toEnd":"none","label":"1,1"},
+		{"id":"9bbf2711830d5e69","fromNode":"103300b366c5488b","fromSide":"top","toNode":"583e63e4ddd4dbec","toSide":"bottom","toEnd":"none","label":"1,N"},
+		{"id":"dfd2b0dfc6ca16d3","fromNode":"583e63e4ddd4dbec","fromSide":"top","toNode":"a81c552717e1df93","toSide":"bottom","toEnd":"none","label":"1,N"},
+		{"id":"25a25482413cb4d6","fromNode":"37c952c074f66ab8","fromSide":"right","toNode":"428f507476f668f0","toSide":"bottom","label":"0,N"},
+		{"id":"9204ca01ead315d5","fromNode":"428f507476f668f0","fromSide":"top","toNode":"a81c552717e1df93","toSide":"right","toEnd":"none","label":"1,1"}
+	]
+}

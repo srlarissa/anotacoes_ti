@@ -8,6 +8,7 @@ O principal objetivo da ProvInCiA é **garantir a rastreabilidade completa dos d
 
 Um dos diferenciais da ProvInCiA é a utilização do conceito de **meta-dataflow**, que é uma abstração que **associa múltiplos dataflows independentes**. Nela, o último dataset gerado por um dataflow serve como entrada inicial para o dataflow subsequente, criando um caminho de derivação contínuo e global dos dados. Essa abordagem permite representar caminhos de derivação complexos e ramificações (splits e merges), mas não pode conter ciclos, sendo grafos acíclicos direcionados (DAGs).
 
+
 # Captura de dados
 
 A ProvInCiA adota **três estratégias** para lidar com a heterogeneidade das fontes de dados de proveniência em CIs:
