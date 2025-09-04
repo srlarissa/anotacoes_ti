@@ -15,8 +15,8 @@
               "state": {
                 "file": "Programação/Banco de Dados/Exercício (03-09).canvas",
                 "viewState": {
-                  "x": -79.96187991506478,
-                  "y": -2322.2992820364475,
+                  "x": -539.6884003792726,
+                  "y": -2498.7599666590745,
                   "zoom": -1.3199728423576933
                 }
               },
@@ -97,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programação/Banco de Dados/Exercício (03-09).canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Exercício (03-09)"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a4d3307fd7bf7b4",
+  "active": "1eacd0e083c7deb6",
   "lastOpenFiles": [
-    "Programação/Banco de Dados/Exercício (03-09).md",
     "Programação/Banco de Dados/Exercício (03-09).canvas",
+    "Programação/Banco de Dados/Exercício (03-09).md",
     "Programação/Lab de Resolução de Problemas/Módulo 1.md",
     "Programação/ProvInCiA/Sobre o ProvInCiA.md",
     "Programação/ProvInCiA/Captura em video.md",

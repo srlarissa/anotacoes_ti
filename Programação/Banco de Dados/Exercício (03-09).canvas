@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"id":"fbb0b5f4afc1cb52","type":"text","text":"**CAMPEONATO**\n\n- Código;\n- Nome;\n- Edição.","x":470,"y":-1360,"width":260,"height":160,"color":"5"},
-		{"id":"c9fc1a12b19deb6b","type":"text","text":"**TEMPORADA**\n\n- Ano.","x":-450,"y":-1330,"width":240,"height":100,"color":"5"},
+		{"id":"fbb0b5f4afc1cb52","type":"text","text":"**CAMPEONATO**\n\n- Código;\n- Nome;\n- Edição.","x":400,"y":-1360,"width":260,"height":160,"color":"5"},
+		{"id":"c9fc1a12b19deb6b","type":"text","text":"**TEMPORADA**\n\n- Ano.","x":-370,"y":-1330,"width":240,"height":100,"color":"5"},
 		{"id":"0a40b9622ae66598","type":"text","text":"**OCORREM**\n\n","x":68,"y":-1540,"width":160,"height":60,"color":"1"},
 		{"id":"37c952c074f66ab8","type":"text","text":"**JOGOS**\n\n- Equipe mandante;\n- Equipe visitante;\n- Cartões;\n- Gols","x":28,"y":-1880,"width":240,"height":180,"color":"5"},
-		{"id":"072fddc1544706fc","type":"text","text":"**CLUBE**\n\n- Nome;\n- CNPJ;\n- Endereço;\n- Telefone.","x":-912,"y":-2440,"width":260,"height":180,"color":"5"},
+		{"id":"072fddc1544706fc","type":"text","text":"**CLUBE**\n\n- Nome;\n- CNPJ;\n- Endereço;\n- Telefone.","x":-752,"y":-2440,"width":260,"height":180,"color":"5"},
 		{"id":"103300b366c5488b","type":"text","text":"**EQUIPE**\n\n- Código;\n- Nome.","x":28,"y":-2420,"width":240,"height":140,"color":"5"},
-		{"id":"b58a59b7f89ba55b","type":"text","text":"**POSSUI**","x":-372,"y":-2380,"width":112,"height":61,"color":"1"},
+		{"id":"b58a59b7f89ba55b","type":"text","text":"**POSSUI**","x":-292,"y":-2380,"width":112,"height":61,"color":"1"},
 		{"id":"d0fb95359337ed46","type":"text","text":"**VISITANTE**","x":202,"y":-2085,"width":132,"height":61,"color":"1"},
 		{"id":"ed4de60f1c01dd8c","type":"text","text":"**MANDANTE**","x":-48,"y":-2079,"width":152,"height":50,"color":"1"},
 		{"id":"a81c552717e1df93","type":"text","text":"**JOGADOR**\n\n- Código;\n- Nome.","x":28,"y":-2880,"width":240,"height":140,"color":"5"},
