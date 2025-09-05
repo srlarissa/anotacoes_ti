@@ -1,0 +1,1 @@
+Descrevem a estrutura, as regras e as propriedades dos dados armazenados no banco.

@@ -1,1 +1,1 @@
-Coleção de dados inter-relacionados logicamente.
+Abstração ou coleção de dados inter-relacionados logicamente, coerentes e com algum significado inerente, representando um modelo da realidade. Cria um isolamento entre programas e dados, contém a definição de sua própria estrutura (dados, metadados, índices e dados sobre as aplicações que a utiliza).
