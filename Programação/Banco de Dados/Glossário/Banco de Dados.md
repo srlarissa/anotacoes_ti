@@ -1,5 +1,1 @@
-Camada para gerenciar dados, geralmente de forma tabular, com certa organização e correlação, mantendo alguns preceitos, como:
-
-- Redundância leva a inconsistência;
-- Acesso concorrente pode causar erros;
-- Um usuário só pode ver seus próprios dados.
+Nome genérico para o software SGBD, a [base de dados](obsidian://open?vault=anotacoes_ti&file=Programa%C3%A7%C3%A3o%2FBanco%20de%20Dados%2FGloss%C3%A1rio%2FBase%20de%20Dados) e, às vezes, os programas ou aplicativos, quer seja combinados ou isolados.

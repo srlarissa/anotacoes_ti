@@ -1,0 +1,1 @@
+Coleção de programas que permite a criação e gerência de bases de dados, também chamado de Sistema de Banco de Dados.

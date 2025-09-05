@@ -1,0 +1,1 @@
+Coleção de dados inter-relacionados logicamente.
