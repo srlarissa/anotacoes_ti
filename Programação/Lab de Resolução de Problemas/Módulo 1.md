@@ -6,7 +6,7 @@
 
 # Cavalo
 
-![[Pasted image 20250901183010.png]]
+![[exercicio_cavalo.png]]
 
 1. Definir estruturas auxiliares:
 	1. Molde contendo os movimentos legais do cavalo;

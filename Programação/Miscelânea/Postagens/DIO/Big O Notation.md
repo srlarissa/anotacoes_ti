@@ -17,7 +17,7 @@ E, essas análises, podem ser categorizadas nas seguintes denominações, consid
 
 A relação entre cada uma das denominações está na imagem abaixo, sendo o mais próximo de O(N!) a pior e O(1) a mais desejável:
 
-![[Pasted image 20250820113709.png]]
+![[Progressao_BigONotation.png]]
 
 Nota: Vale salientar que Big-O não analisa a performance de um código, e sim sua escalabilidade. Em resumo, O(1) não é constante porque seu valor é sempre igual, e, sim, porque ele não aumenta ou diminui de acordo com o tamanho do input. Veja o exemplo abaixo:
 

@@ -8,4 +8,4 @@ As limitações são principalmente físicas, como por exemplo:
 - Limitações de escalabilidade;
 - Limitações de largura da banda.
 
-![[Pasted image 20250901162456.png]]
+![[Arquitetura_Memoria_Compartilhada_UMA.png]]
