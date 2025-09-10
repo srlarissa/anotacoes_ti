@@ -1,0 +1,2 @@
+> Uma especialização da annotation [Controller](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FSpring%2FAnnotations%2FController) e [ResponseBody](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FSpring%2FAnnotations%2FResponseBody), ou seja, indica que todos os métodos dentro dela retornarão diretamente objetos de dados, convertidos automaticamente para JSON ou outro formato que será utilizado e enviados como resposta HTTP.
+

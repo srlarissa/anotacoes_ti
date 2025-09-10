@@ -1,4 +1,3 @@
-
 # Memória Compartilhada
 
 > Em uma arquitetura **[MIMD](obsidian://open?vault=Obsidian&file=anotacoes_ti%2FPrograma%C3%A7%C3%A3o%2FMiscel%C3%A2nea%2FConceitos%2FClassifica%C3%A7%C3%A3o%20de%20Flynn#^As-classificações-se-dividem-nas-quatro-categorias-abaixo) (Multiple Instruction, Multiple Data)**, o compartilhamento de memória é uma das formas fundamentais de organização para permitir que múltiplos processadores trabalhem em conjunto. Nestes sistemas, **cada UCP (Unidade Central de Processamento) pode executar instruções diferentes e utilizar dados diferentes**.
