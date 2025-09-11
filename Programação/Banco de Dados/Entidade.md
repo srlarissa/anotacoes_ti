@@ -26,3 +26,15 @@ Portanto, podemos concluir que:
 - **xt:** Quando todas as especializações forem representadas e cada instância poderá ter apenas uma especialização;
 - **xp:** Que nem todas as especializações foram representadas e uma instância poderá ter apenas uma especialização.
 
+# Entidade Associativa
+
+> É uma entidade que liga duas outras entidades (como um relacionamento), mas consegue guardar em si propriedades como as de entidades para gerar um relacionamento da relação em si com outra entidade em especifico.
+
+### Exemplo:
+
+Digamos que haja um relacionamento entre um paciente e um médico chamado consulta. Mas, também, que haja a necessidade de vincular prescrição de medicamentos por um médico para um paciente à uma consulta. Deixando consulta como apenas um relacionamento não é possível guardar guardar essas informações de forma adequada e nem conectar consulta a medicamente através de um relacionamento, uma vez que relacionamentos não se conectam entre si.
+
+
+
+
+

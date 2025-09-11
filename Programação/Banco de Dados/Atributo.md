@@ -16,6 +16,9 @@
 
 > Atributo único e que não será repetido entre instâncias da mesma entidade.
 
+# Atributo Temporal
+
+> Caso necessite de um histórico de um atributo, precisaremos utilizar uma entidade nesse caso para que seja guardado a progressão e derivação do valor.
 
 
 
