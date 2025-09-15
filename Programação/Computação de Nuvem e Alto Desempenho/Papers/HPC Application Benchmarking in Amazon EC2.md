@@ -2,7 +2,7 @@
 
 ### Qual o trabalho?
 
-> O estudo e análise minuciosa de um benchmark entre um supercomputador (Beskow - Cray XC40) e a nuvem da AWS.
+ O estudo e análise minuciosa de um benchmark entre um supercomputador (Beskow - Cray XC40) e a nuvem da AWS.
 
 ### Quem é o autor?
 
@@ -89,4 +89,4 @@ Como resultado dessa pesquisa, temos algumas aplicações práticas como produto
 
 ### Pergunta:
 
-Ambas máquinas, a Beskow e a máquna na AWS utilizam arquitetura Intel. Acredita que haveria mudanças significativas caso a arquitetura fosse outra?
+Ambas máquinas, a Beskow e a máquina na AWS utilizam arquitetura Intel. Acredita que haveria mudanças significativas caso a arquitetura fosse outra?
