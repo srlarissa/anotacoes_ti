@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/App_Corrida.drawio.png"
+                "file": "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/Corrida.drawio.png"
               },
               "icon": "lucide-image",
-              "title": "App_Corrida.drawio"
+              "title": "Corrida.drawio"
             }
           }
         ]
@@ -169,6 +169,8 @@
   },
   "active": "286901ab75f342c8",
   "lastOpenFiles": [
+    "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/App_Corrida.drawio.png",
+    "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/Corrida.drawio.png",
     "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/Enunciado.png",
     "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Experimento/enunciado1-22_1.png",
     "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Experimento/Experimento.drawio.png",
@@ -178,8 +180,6 @@
     "Imagens/Pasted image 20250901161012.png",
     "Imagens/Pasted image 20250901161048.png",
     "Imagens/Pasted image 20250901161116.png",
-    "Imagens/Pasted image 20250901161130.png",
-    "Imagens/Progressao_BigONotation.png",
     "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Experimento"
   ]
 }
