@@ -1,24 +1,22 @@
 {
   "main": {
-    "id": "3a30d7f98595b2f3",
+    "id": "7119335633429a3e",
     "type": "split",
     "children": [
       {
-        "id": "b470e7a3491344c9",
+        "id": "80a5f92110fa39ef",
         "type": "tabs",
         "children": [
           {
-            "id": "c1747d35449452a8",
+            "id": "286901ab75f342c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Programação/Lab de Resolução de Problemas/Módulos 2 e 3 - Exercícios de Operadores e Estrutura de Seleção - beecrowd.md",
-                "mode": "source",
-                "source": false
+                "file": "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/App_Corrida.drawio.png"
               },
-              "icon": "lucide-file",
-              "title": "Módulos 2 e 3 - Exercícios de Operadores e Estrutura de Seleção - beecrowd"
+              "icon": "lucide-image",
+              "title": "App_Corrida.drawio"
             }
           }
         ]
@@ -27,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b3e984823b8ca1df",
+    "id": "51007fdf4867fddf",
     "type": "split",
     "children": [
       {
-        "id": "233ef03df9e28e56",
+        "id": "29c0036716573358",
         "type": "tabs",
         "children": [
           {
-            "id": "1eacd0e083c7deb6",
+            "id": "52adade114e227d6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +46,7 @@
             }
           },
           {
-            "id": "66d5bbdf1272392d",
+            "id": "090741f35360e1dd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +63,7 @@
             }
           },
           {
-            "id": "7d2ccfaf0e40597e",
+            "id": "667f12dfa53bf24b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +79,20 @@
     "width": 300
   },
   "right": {
-    "id": "d06a3a8aa762b5c3",
+    "id": "85081111e8970d31",
     "type": "split",
     "children": [
       {
-        "id": "652a17b99a4a9de0",
+        "id": "9554052f281e6507",
         "type": "tabs",
         "children": [
           {
-            "id": "79fdec2060f2e247",
+            "id": "f9de633861bd61fe",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/App_Corrida.drawio.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +102,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for App_Corrida.drawio"
             }
           },
           {
-            "id": "5dded94a9585f1c1",
+            "id": "004865287a29310a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
+                "file": "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/App_Corrida.drawio.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tipos primitivos e Wrappers"
+              "title": "Outgoing links from App_Corrida.drawio"
             }
           },
           {
-            "id": "b93d3d3b3d8c2df2",
+            "id": "df5d680d82139b30",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,18 +135,18 @@
             }
           },
           {
-            "id": "faf47b40c1f65df9",
+            "id": "e94f339497cb7405",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programação/Java/Sintaxe/Tipos primitivos e Wrappers.md",
+                "file": "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/App_Corrida.drawio.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tipos primitivos e Wrappers"
+              "title": "Outline of App_Corrida.drawio"
             }
           }
         ]
@@ -159,70 +158,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "c1747d35449452a8",
+  "active": "286901ab75f342c8",
   "lastOpenFiles": [
-    "Programação/Computação de Nuvem e Alto Desempenho/Papers/The Computing Continuum (Architecture - Models - Technologies).md",
-    "Programação/Computação de Nuvem e Alto Desempenho/Papers/Cloud Service Performance for Deep Learning Workloads.md",
-    "Programação/Computação de Nuvem e Alto Desempenho/Papers/Proactive Auto-scaling for Cloud Machine Learning Services.md",
-    "Programação/Computação de Nuvem e Alto Desempenho/Papers/HPC Application Benchmarking in Amazon EC2.md",
-    "Programação/Banco de Dados/Atributo.md",
-    "Programação/Banco de Dados/Entidade.md",
-    "Programação/Banco de Dados/Modelo Entidade-Relacionamento.md",
-    "Programação/Banco de Dados/Relacionamento.md",
-    "Programação/Banco de Dados/Exercícios/Exercício (03-09).canvas",
-    "Programação/Banco de Dados/Exercícios",
-    "Programação/Spring/Annotations/RestController.md",
-    "Programação/Spring/Annotations/ResponseBody.md",
-    "Programação/Spring/Annotations/Mapping.md",
-    "Programação/Spring/Annotations/Definição.md",
-    "Programação/Spring/Annotations/Controller.md",
-    "Programação/Spring/Annotations",
-    "Programação/Spring",
-    "Programação/Miscelânea/ProvInCiA/Sobre o ProvInCiA.md",
-    "Programação/Miscelânea/ProvInCiA/Captura em video.md",
-    "Programação/Miscelânea/ProvInCiA",
-    "Programação/Lab de Resolução de Problemas/Módulos 2 e 3 - Exercícios de Operadores e Estrutura de Seleção - beecrowd.md",
-    "Imagens/exercicio_cavalo.png",
-    "Imagens/Progressao_BigONotation.png",
+    "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/Enunciado.png",
+    "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Experimento/enunciado1-22_1.png",
+    "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Experimento/Experimento.drawio.png",
     "Imagens/Arquitetura_Memoria_Distribuida.png",
-    "Imagens/Arquitetura_Memoria_Compartilhada_UMA.png",
-    "Imagens/Arquitetura_Memoria_Compartilhada_NUMA.png",
-    "Imagens/Arquitetura_Memoria_Compartilhada.png",
-    "Programação/Banco de Dados/Glossário/Sistema de Gerência de Bases de Dados (SGBD).md",
-    "Programação/Banco de Dados/Glossário/Modelo de Banco de Dados.md",
-    "Programação/Banco de Dados/Glossário/Metadados.md",
-    "Programação/Banco de Dados/Glossário/Dado.md",
-    "Programação/Banco de Dados/Glossário/Base de Dados.md",
-    "Programação/Banco de Dados/Glossário/Banco de Dados.md",
-    "Programação/Banco de Dados/Glossário",
-    "Programação/Banco de Dados/Exercício (03-09).md",
-    "Programação/Lab de Resolução de Problemas/Módulo 1.md",
-    "Programação/ProvInCiA/Sobre o ProvInCiA.md",
-    "Programação/ProvInCiA/Captura em video.md",
-    "Programação/ProvInCiA/Códigos pré-existentes",
-    "Programação/Untitled.canvas",
-    "Programação/ProvInCiA",
-    "Programação/Programação de Alto Desempenho",
-    "Programação/Lab de Resolução de Problemas",
-    "Modulos - Spring.png",
-    "Programação/Back-End/Conceitos/Untitled.canvas",
-    "Entity Management.png",
-    "Programação/Java/Sintaxe/Collections/Hierarquia de Collections.png",
-    "ORM.png",
-    "Programação/Java/Sintaxe/Collections/Collections.canvas",
-    "Programação/Back-End/Conceitos/API.canvas",
-    "Programação/Spring Boot",
-    "Programação/Java/Sintaxe/Exceptions e Errors.canvas",
-    "Programação/Java/Sintaxe/Tipos primitivos.canvas",
-    "Programação/Java/Sintaxe/Classe wrapper.canvas"
+    "Imagens/exercicio_cavalo.png",
+    "Imagens/Modulos - Spring.png",
+    "Imagens/Pasted image 20250901161012.png",
+    "Imagens/Pasted image 20250901161048.png",
+    "Imagens/Pasted image 20250901161116.png",
+    "Imagens/Pasted image 20250901161130.png",
+    "Imagens/Progressao_BigONotation.png",
+    "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Experimento"
   ]
 }
