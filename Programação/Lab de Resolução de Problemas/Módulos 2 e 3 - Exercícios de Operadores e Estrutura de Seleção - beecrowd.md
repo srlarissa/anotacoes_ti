@@ -11,10 +11,10 @@
 
 ## Operadores Relacionais e Lógicos (Condicionais)
 
-- [ ] 1035 - [Teste de Seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035)
+- [x] 1035 - [Teste de Seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035)
 - [x] 1036 - [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036)
-- [ ] 1042 - [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)
-- [ ] 1045 - [Tipos de Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1045)
+- [x] 1042 - [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)
+- [x] 1045 - [Tipos de Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1045)
 - [ ] 1048 - [Aumento de Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048)
 - [x] 1049 - [Animal](https://www.beecrowd.com.br/judge/pt/problems/view/1049)
 - [x] 1050 - [DDD](https://www.beecrowd.com.br/judge/pt/problems/view/1050)
