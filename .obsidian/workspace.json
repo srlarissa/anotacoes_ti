@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "80a5f92110fa39ef",
+        "id": "df6a4be073148f8e",
         "type": "tabs",
         "children": [
           {
-            "id": "286901ab75f342c8",
+            "id": "711c260c2cc7e02f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/Corrida.drawio.png"
+                "file": "Programação/Miscelânea/Conceitos/POO/Encapsulamento.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Corrida.drawio"
+              "icon": "lucide-file",
+              "title": "Encapsulamento"
             }
           }
         ]
@@ -167,19 +169,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "286901ab75f342c8",
+  "active": "711c260c2cc7e02f",
   "lastOpenFiles": [
-    "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/App_Corrida.drawio.png",
+    "Pasted image 20250929124018.png",
+    "Imagens/Pasted image 20250901161130.png",
+    "Imagens/Pasted image 20250901161116.png",
+    "Imagens/Pasted image 20250901161048.png",
+    "Imagens/Pasted image 20250901161012.png",
+    "Programação/Miscelânea/Conceitos/POO/Encapsulamento.md",
+    "Imagens/visibilidade.png",
+    "Programação/Miscelânea/Conceitos/POO/Definição.md",
+    "Programação/Tópicos pendentes.md",
+    "Programação/Miscelânea/Conceitos/POO",
     "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/Corrida.drawio.png",
+    "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/App_Corrida.drawio.png",
     "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/Enunciado.png",
     "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Experimento/enunciado1-22_1.png",
     "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Experimento/Experimento.drawio.png",
-    "Imagens/Arquitetura_Memoria_Distribuida.png",
-    "Imagens/exercicio_cavalo.png",
-    "Imagens/Modulos - Spring.png",
-    "Imagens/Pasted image 20250901161012.png",
-    "Imagens/Pasted image 20250901161048.png",
-    "Imagens/Pasted image 20250901161116.png",
     "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Experimento"
   ]
 }
