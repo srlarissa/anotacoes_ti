@@ -62,7 +62,13 @@ const [processados, setProcessados] = useState(() =>
 );
 ```
 
-Desse modo, a função apenas é executada na primeira renderização, uma vez que quando o React recebe uma função com argumento, ele prontamente a executa ainda que não seja mais a primeira execução. Passando a função pesada como argumento de um lambda, é possível fazer com que a função que será prontamente executada seja a mesma, assim, a função pesada apenas será executada caso de fato seja a primeira execução.
+Desse modo, a função apenas é executada na primeira renderização, uma vez que quando o React recebe uma função com argumento, ele prontamente a executa ainda que não seja mais a primeira execução. Passando a função pesada como argumento de um lambda, é possível fazer com que a função que será prontamente executada seja a mesma, assim, a função pesada apenas será executada caso de fato seja a primeira execução. Via de regra, usaremos lazy initialization quando:
+
+- Envolver operações de entrada e saída;
+- Processamento de array ou objetos grandes;
+- Cálculos matemáticos complexos;
+- Criação de estruturas complexas;
+- Operações maiores que alguns milissegundos.
 
 ## Atualização do Estado
 
@@ -99,11 +105,17 @@ usuario.nome = 'João';
 
 ## Pontos importantes:
 
-### Atualizações são assincronas
+### Atualizações são assincronas:
 
-## React compara por referência
+> A atualização do estado no react é feita em batching, ou seja, o react acumula múltiplas atualizações antes de re-renderizar o componente.
 
-## Preserva o estado entre re-renderizações
+### React compara por referência:
+
+> Tipos que não são primitivos, o react compara valores verificando se ambos apontam para o mesmo lugar na memória, e não se tem o mesmo conteúdo.
+
+### Preserva o estado entre re-renderizações:
+
+> O react mantém uma estrutura da dados separada para armazenar os estados de cada componente. Dessa forma, informações não são perdidas de uma renderização para a outra. O estado apenas é perdido quando o componente é desmontado ou quando a key de um componente muda.
 
 ## Quando usar:
 
