@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/Spring/Annotations/Spring Data JPA/GeneratedValue.md",
+                "file": "Programação/Back-End/Spring/Annotations/Spring Data JPA/GeneratedValue.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,19 +169,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "711c260c2cc7e02f",
+  "active": "52adade114e227d6",
   "lastOpenFiles": [
+    "Programação/Faculdade",
     "Programação/Miscelânea/Conceitos/UUID.md",
-    "Programação/Spring/Annotations/Spring Data JPA/GeneratedValue.md",
+    "Programação/Back-End/Spring/Annotations/Spring Data JPA/GeneratedValue.md",
     "().md",
-    "Programação/Spring/Annotations/Spring Data JPA/Entity.md",
-    "Programação/Spring/Annotations/Spring Data JPA/Id.md",
-    "Programação/Spring/Annotations/Spring Data JPA/Table.md",
-    "Programação/Spring/Annotations/Definição.md",
+    "Programação/Back-End/Spring/Annotations/Spring Data JPA/Entity.md",
+    "Programação/Back-End/Spring/Annotations/Spring Data JPA/Id.md",
+    "Programação/Back-End/Spring/Annotations/Spring Data JPA/Table.md",
+    "Programação/Back-End/Spring/Annotations/Definição.md",
     "Programação/Spring/Annotations/Spring Data JPA/Untitled",
-    "Programação/Spring/Annotations/Mapping.md",
-    "Programação/Spring/Annotations/Controller.md",
-    "Programação/Spring/Annotations/Spring Data JPA",
+    "Programação/Back-End/Spring/Annotations/Mapping.md",
+    "Programação/Back-End/Spring/Annotations/Controller.md",
+    "Programação/Back-End/Spring/Annotations/Spring Data JPA",
     "Programação/Miscelânea/Conceitos/POO/Encapsulamento.md",
     "Pasted image 20250929124018.png",
     "Imagens/Pasted image 20250901161130.png",
