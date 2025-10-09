@@ -11,7 +11,6 @@
 - Logs no console;
 - Sincronização com APIs externas.
 
-
 ## Criação:
 
 > Antigamente, apenas componentes de classe tinham acesso aos métodos de ciclo de vida *(como por exemplo componentDidMount, componentDidUpdate, componentWillUnmount)*. Dessa forma, o useEffect unifica essas três funções em apenas uma única API para componentes funcionais.

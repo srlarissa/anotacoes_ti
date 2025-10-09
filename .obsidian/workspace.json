@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programação/React/Hooks/useEffect.md",
+                "file": "Programação/Miscelânea/Conceitos/SOLID/LSP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useEffect"
+              "title": "LSP"
             }
           }
         ]
@@ -171,12 +171,18 @@
   },
   "active": "86408c552fd4117e",
   "lastOpenFiles": [
+    "Programação/Miscelânea/Conceitos/SOLID/Open - Closed Principle.md",
+    "Programação/Miscelânea/Conceitos/SOLID/LSP.md",
+    "Programação/Miscelânea/Conceitos/SOLID/SRP - (Single Responsability Principle).md",
+    "Programação/Miscelânea/Conceitos/SOLID/SOLID.md",
+    "Programação/React/SOLID em React.md",
+    "Programação/React/Ciclo de vida no React.md",
     "Programação/React/Hooks/useEffect.md",
+    "Programação/Miscelânea/Conceitos/SOLID",
     "Programação/Miscelânea/Postagens/Linkedin/Lazy Initialization - 09-10.md",
     "Programação/React/Hooks/useState.md",
     "Programação/Miscelânea/Postagens/Linkedin",
     "Programação/Miscelânea/Conceitos/Condição de corrida.md",
-    "Programação/React/Ciclo de vida no React.md",
     "Programação/React/Hooks/Untitled",
     "Programação/React/Hooks",
     "Programação/React/Glossário/Hook.md",
@@ -210,7 +216,6 @@
     "Programação/Faculdade/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/Corrida.drawio.png",
     "Programação/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/App_Corrida.drawio.png",
     "Programação/Faculdade/Banco de Dados/Exercícios/Modelo Conceitual - Corrida/Enunciado.png",
-    "Programação/Faculdade/Banco de Dados/Exercícios/Modelo Conceitual - Experimento/enunciado1-22_1.png",
-    "Programação/Faculdade/Banco de Dados/Exercícios/Modelo Conceitual - Experimento"
+    "Programação/Faculdade/Banco de Dados/Exercícios/Modelo Conceitual - Experimento/enunciado1-22_1.png"
   ]
 }
