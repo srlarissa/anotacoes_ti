@@ -15,14 +15,14 @@
 - [x] 1036 - [Fórmula de Bhaskara](https://www.beecrowd.com.br/judge/pt/problems/view/1036)
 - [x] 1042 - [Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)
 - [x] 1045 - [Tipos de Triângulos](https://www.beecrowd.com.br/judge/pt/problems/view/1045)
-- [ ] 1048 - [Aumento de Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048)
+- [x] 1048 - [Aumento de Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048)
 - [x] 1049 - [Animal](https://www.beecrowd.com.br/judge/pt/problems/view/1049)
 - [x] 1050 - [DDD](https://www.beecrowd.com.br/judge/pt/problems/view/1050)
 - [x] 1051 - [Imposto de Renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)
 - [x] 1052 - [Mês](https://www.beecrowd.com.br/judge/pt/problems/view/1052)
-- [ ] 1060 - [Números Positivos](https://www.beecrowd.com.br/judge/pt/problems/view/1060)
-- [ ] 1064 - [Positivos e Média](https://www.beecrowd.com.br/judge/pt/problems/view/1064)
-- [ ] 1070 - [Seis Números Ímpares](https://www.beecrowd.com.br/judge/pt/problems/view/1070)
+- [x] 1060 - [Números Positivos](https://www.beecrowd.com.br/judge/pt/problems/view/1060)
+- [x] 1064 - [Positivos e Média](https://www.beecrowd.com.br/judge/pt/problems/view/1064)
+- [x] 1070 - [Seis Números Ímpares](https://www.beecrowd.com.br/judge/pt/problems/view/1070)
 
 ## Outros Exercícios
 
